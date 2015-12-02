@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 889936b8b45ca6045856825351692e01
+timeCreated: 1449073710
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Carrot cake_Puzzle_2_0
+    21300002: Carrot cake_Puzzle_2_1
+    21300004: Carrot cake_Puzzle_2_2
+    21300006: Carrot cake_Puzzle_2_3
+    21300008: Carrot cake_Puzzle_2_4
+    21300010: Carrot cake_Puzzle_2_5
+    21300012: Carrot cake_Puzzle_2_6
+    21300014: Carrot cake_Puzzle_2_7
+    21300016: Carrot cake_Puzzle_2_8
+    21300018: Carrot cake_Puzzle_2_9
+    21300020: Carrot cake_Puzzle_2_10
+    21300022: Carrot cake_Puzzle_2_11
+    21300024: Carrot cake_Puzzle_2_12
+    21300026: Carrot cake_Puzzle_2_13
+    21300028: Carrot cake_Puzzle_2_14
+    21300030: Carrot cake_Puzzle_2_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Carrot cake_Puzzle_2_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 384
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 245
+        width: 181
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 254
+        width: 242
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_4
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 255
+        width: 236
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_5
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 263
+        width: 159
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_6
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 256
+        width: 175
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 147
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_8
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 204
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_9
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 6
+        width: 192
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 182
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 182
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 201
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 12
+        width: 212
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 7
+        width: 223
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot cake_Puzzle_2_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 207
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

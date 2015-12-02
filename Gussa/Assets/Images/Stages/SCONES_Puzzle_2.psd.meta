@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: ec454526323d0804fbed82cc2aba26c9
+timeCreated: 1449074457
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SCONES_Puzzle_2_0
+    21300002: SCONES_Puzzle_2_1
+    21300004: SCONES_Puzzle_2_2
+    21300006: SCONES_Puzzle_2_3
+    21300008: SCONES_Puzzle_2_4
+    21300010: SCONES_Puzzle_2_5
+    21300012: SCONES_Puzzle_2_6
+    21300014: SCONES_Puzzle_2_7
+    21300016: SCONES_Puzzle_2_8
+    21300018: SCONES_Puzzle_2_9
+    21300020: SCONES_Puzzle_2_10
+    21300022: SCONES_Puzzle_2_11
+    21300024: SCONES_Puzzle_2_12
+    21300026: SCONES_Puzzle_2_13
+    21300028: SCONES_Puzzle_2_14
+    21300030: SCONES_Puzzle_2_15
+    21300032: SCONES_Puzzle_2_16
+    21300034: SCONES_Puzzle_2_17
+    21300036: SCONES_Puzzle_2_18
+    21300038: SCONES_Puzzle_2_19
+    21300040: SCONES_Puzzle_2_20
+    21300042: SCONES_Puzzle_2_21
+    21300044: SCONES_Puzzle_2_22
+    21300046: SCONES_Puzzle_2_23
+    21300048: SCONES_Puzzle_2_24
+    21300050: SCONES_Puzzle_2_25
+    21300052: SCONES_Puzzle_2_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SCONES_Puzzle_2_0
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 490
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 469
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 469
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 475
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 475
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 472
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_6
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 464
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_7
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 464
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 311
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 300
+        width: 98
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 296
+        width: 177
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 322
+        width: 189
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_12
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 367
+        width: 151
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 256
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 256
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_15
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 264
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_16
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 264
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 34
+        width: 144
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_18
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 248
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_19
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 248
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90
+        width: 137
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_22
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 203
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 203
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_24
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 125
+        width: 203
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_25
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 95
+        width: 135
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCONES_Puzzle_2_26
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 0
+        width: 168
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 3dc13b57782e1984a9b13e18a5714b33
+timeCreated: 1449074003
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Han_Cheese Roll_PROCESS_0
+    21300002: Han_Cheese Roll_PROCESS_1
+    21300004: Han_Cheese Roll_PROCESS_2
+    21300006: Han_Cheese Roll_PROCESS_3
+    21300008: Han_Cheese Roll_PROCESS_4
+    21300010: Han_Cheese Roll_PROCESS_5
+    21300012: Han_Cheese Roll_PROCESS_6
+    21300014: Han_Cheese Roll_PROCESS_7
+    21300016: Han_Cheese Roll_PROCESS_8
+    21300018: Han_Cheese Roll_PROCESS_9
+    21300020: Han_Cheese Roll_PROCESS_10
+    21300022: Han_Cheese Roll_PROCESS_11
+    21300024: Han_Cheese Roll_PROCESS_12
+    21300026: Han_Cheese Roll_PROCESS_13
+    21300028: Han_Cheese Roll_PROCESS_14
+    21300030: Han_Cheese Roll_PROCESS_15
+    21300032: Han_Cheese Roll_PROCESS_16
+    21300034: Han_Cheese Roll_PROCESS_17
+    21300036: Han_Cheese Roll_PROCESS_18
+    21300038: Han_Cheese Roll_PROCESS_19
+    21300040: Han_Cheese Roll_PROCESS_20
+    21300042: Han_Cheese Roll_PROCESS_21
+    21300044: Han_Cheese Roll_PROCESS_22
+    21300046: Han_Cheese Roll_PROCESS_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Han_Cheese Roll_PROCESS_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 477
+        width: 142
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 479
+        width: 142
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 479
+        width: 142
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_3
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 479
+        width: 142
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 384
+        width: 142
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 386
+        width: 145
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 385
+        width: 154
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 385
+        width: 162
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 257
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 257
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 257
+        width: 121
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 257
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 257
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_13
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 257
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 231
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 130
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 130
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 130
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 130
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 130
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_21
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 139
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 103
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Han_Cheese Roll_PROCESS_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 103
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: b1af5add770479b4eb20ab69223508a6
+timeCreated: 1449074060
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pizza quinua_Puzzle_0
+    21300002: Pizza quinua_Puzzle_1
+    21300004: Pizza quinua_Puzzle_2
+    21300006: Pizza quinua_Puzzle_3
+    21300008: Pizza quinua_Puzzle_4
+    21300010: Pizza quinua_Puzzle_5
+    21300012: Pizza quinua_Puzzle_6
+    21300014: Pizza quinua_Puzzle_7
+    21300016: Pizza quinua_Puzzle_8
+    21300018: Pizza quinua_Puzzle_9
+    21300020: Pizza quinua_Puzzle_10
+    21300022: Pizza quinua_Puzzle_11
+    21300024: Pizza quinua_Puzzle_12
+    21300026: Pizza quinua_Puzzle_13
+    21300028: Pizza quinua_Puzzle_14
+    21300030: Pizza quinua_Puzzle_15
+    21300032: Pizza quinua_Puzzle_16
+    21300034: Pizza quinua_Puzzle_17
+    21300036: Pizza quinua_Puzzle_18
+    21300038: Pizza quinua_Puzzle_19
+    21300040: Pizza quinua_Puzzle_20
+    21300042: Pizza quinua_Puzzle_21
+    21300044: Pizza quinua_Puzzle_22
+    21300046: Pizza quinua_Puzzle_23
+    21300048: Pizza quinua_Puzzle_24
+    21300050: Pizza quinua_Puzzle_25
+    21300052: Pizza quinua_Puzzle_26
+    21300054: Pizza quinua_Puzzle_27
+    21300056: Pizza quinua_Puzzle_28
+    21300058: Pizza quinua_Puzzle_29
+    21300060: Pizza quinua_Puzzle_30
+    21300062: Pizza quinua_Puzzle_31
+    21300064: Pizza quinua_Puzzle_32
+    21300066: Pizza quinua_Puzzle_33
+    21300068: Pizza quinua_Puzzle_34
+    21300070: Pizza quinua_Puzzle_35
+    21300072: Pizza quinua_Puzzle_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pizza quinua_Puzzle_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 519
+        width: 183
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_1
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 518
+        width: 183
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 660
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 713
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_4
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 608
+        width: 198
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_5
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 652
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_6
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 654
+        width: 193
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_7
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 654
+        width: 154
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_8
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 654
+        width: 193
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 539
+        width: 142
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 532
+        width: 143
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 550
+        width: 135
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_12
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 449
+        width: 204
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_13
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 532
+        width: 182
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_14
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 534
+        width: 172
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_15
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 540
+        width: 207
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 417
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 367
+        width: 194
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 410
+        width: 160
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_19
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 330
+        width: 58
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 427
+        width: 146
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_21
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 417
+        width: 171
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_22
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 423
+        width: 239
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 285
+        width: 161
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_24
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 267
+        width: 255
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_25
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 279
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_26
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 292
+        width: 205
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_27
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 271
+        width: 343
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_28
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 203
+        width: 195
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 254
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 33
+        width: 256
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_31
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 33
+        width: 255
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_32
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 104
+        width: 130
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_33
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 170
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_34
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 112
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_35
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 0
+        width: 364
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza quinua_Puzzle_36
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 6
+        width: 194
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

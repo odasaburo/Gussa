@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 45c54a710549fad468762f36e3f367b6
+timeCreated: 1449074325
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Traditional Cookies_2_0
+    21300002: Traditional Cookies_2_1
+    21300004: Traditional Cookies_2_2
+    21300006: Traditional Cookies_2_3
+    21300008: Traditional Cookies_2_4
+    21300010: Traditional Cookies_2_5
+    21300012: Traditional Cookies_2_6
+    21300014: Traditional Cookies_2_7
+    21300016: Traditional Cookies_2_8
+    21300018: Traditional Cookies_2_9
+    21300020: Traditional Cookies_2_10
+    21300022: Traditional Cookies_2_11
+    21300024: Traditional Cookies_2_12
+    21300026: Traditional Cookies_2_13
+    21300028: Traditional Cookies_2_14
+    21300030: Traditional Cookies_2_15
+    21300032: Traditional Cookies_2_16
+    21300034: Traditional Cookies_2_17
+    21300036: Traditional Cookies_2_18
+    21300038: Traditional Cookies_2_19
+    21300040: Traditional Cookies_2_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Traditional Cookies_2_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1654
+        width: 345
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1654
+        width: 345
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1375
+        width: 345
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1388
+        width: 175
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_4
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1237
+        width: 216
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1173
+        width: 389
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1311
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1126
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1143
+        width: 348
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1118
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1121
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_11
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 940
+        width: 420
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 932
+        width: 390
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1075
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 735
+        width: 389
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_15
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 645
+        width: 390
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 311
+        width: 429
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_17
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 379
+        width: 374
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 349
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 101
+        width: 389
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Traditional Cookies_2_20
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 100
+        width: 186
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

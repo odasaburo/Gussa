@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 0c2886c78ad8975488ed86243586e32a
+timeCreated: 1449074282
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: COOKIES_Puzzle_0
+    21300002: COOKIES_Puzzle_1
+    21300004: COOKIES_Puzzle_2
+    21300006: COOKIES_Puzzle_3
+    21300008: COOKIES_Puzzle_4
+    21300010: COOKIES_Puzzle_5
+    21300012: COOKIES_Puzzle_6
+    21300014: COOKIES_Puzzle_7
+    21300016: COOKIES_Puzzle_8
+    21300018: COOKIES_Puzzle_9
+    21300020: COOKIES_Puzzle_10
+    21300022: COOKIES_Puzzle_11
+    21300024: COOKIES_Puzzle_12
+    21300026: COOKIES_Puzzle_13
+    21300028: COOKIES_Puzzle_14
+    21300030: COOKIES_Puzzle_15
+    21300032: COOKIES_Puzzle_16
+    21300034: COOKIES_Puzzle_17
+    21300036: COOKIES_Puzzle_18
+    21300038: COOKIES_Puzzle_19
+    21300040: COOKIES_Puzzle_20
+    21300042: COOKIES_Puzzle_21
+    21300044: COOKIES_Puzzle_22
+    21300046: COOKIES_Puzzle_23
+    21300048: COOKIES_Puzzle_24
+    21300050: COOKIES_Puzzle_25
+    21300052: COOKIES_Puzzle_26
+    21300054: COOKIES_Puzzle_27
+    21300056: COOKIES_Puzzle_28
+    21300058: COOKIES_Puzzle_29
+    21300060: COOKIES_Puzzle_30
+    21300062: COOKIES_Puzzle_31
+    21300064: COOKIES_Puzzle_32
+    21300066: COOKIES_Puzzle_33
+    21300068: COOKIES_Puzzle_34
+    21300070: COOKIES_Puzzle_35
+    21300072: COOKIES_Puzzle_36
+    21300074: COOKIES_Puzzle_37
+    21300076: COOKIES_Puzzle_38
+    21300078: COOKIES_Puzzle_39
+    21300080: COOKIES_Puzzle_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: COOKIES_Puzzle_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 726
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 726
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 726
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 726
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 726
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 726
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_6
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 726
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_7
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 726
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 726
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 548
+        width: 189
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 559
+        width: 138
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 562
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_12
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 549
+        width: 133
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_13
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 632
+        width: 233
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_14
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 523
+        width: 200
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_15
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 629
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_16
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 495
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 458
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 458
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 458
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_20
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 458
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 458
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_22
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 458
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 458
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_24
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 458
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_25
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 458
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 272
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_27
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 259
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_28
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 276
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 294
+        width: 242
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_30
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 292
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_31
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 329
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_32
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 280
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_33
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 324
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 184
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 184
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_36
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 184
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_37
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 184
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 261
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 18
+        width: 260
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COOKIES_Puzzle_40
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 279
+        width: 207
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

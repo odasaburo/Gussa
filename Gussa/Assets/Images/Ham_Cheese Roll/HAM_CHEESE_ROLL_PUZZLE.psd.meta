@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: e4de8ff6aed28044bb79744b7b74b2b5
+timeCreated: 1449074038
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HAM_CHEESE_ROLL_PUZZLE_0
+    21300002: HAM_CHEESE_ROLL_PUZZLE_1
+    21300004: HAM_CHEESE_ROLL_PUZZLE_2
+    21300006: HAM_CHEESE_ROLL_PUZZLE_3
+    21300008: HAM_CHEESE_ROLL_PUZZLE_4
+    21300010: HAM_CHEESE_ROLL_PUZZLE_5
+    21300012: HAM_CHEESE_ROLL_PUZZLE_6
+    21300014: HAM_CHEESE_ROLL_PUZZLE_7
+    21300016: HAM_CHEESE_ROLL_PUZZLE_8
+    21300018: HAM_CHEESE_ROLL_PUZZLE_9
+    21300020: HAM_CHEESE_ROLL_PUZZLE_10
+    21300022: HAM_CHEESE_ROLL_PUZZLE_11
+    21300024: HAM_CHEESE_ROLL_PUZZLE_12
+    21300026: HAM_CHEESE_ROLL_PUZZLE_13
+    21300028: HAM_CHEESE_ROLL_PUZZLE_14
+    21300030: HAM_CHEESE_ROLL_PUZZLE_15
+    21300032: HAM_CHEESE_ROLL_PUZZLE_16
+    21300034: HAM_CHEESE_ROLL_PUZZLE_17
+    21300036: HAM_CHEESE_ROLL_PUZZLE_18
+    21300038: HAM_CHEESE_ROLL_PUZZLE_19
+    21300040: HAM_CHEESE_ROLL_PUZZLE_20
+    21300042: HAM_CHEESE_ROLL_PUZZLE_21
+    21300044: HAM_CHEESE_ROLL_PUZZLE_22
+    21300046: HAM_CHEESE_ROLL_PUZZLE_23
+    21300048: HAM_CHEESE_ROLL_PUZZLE_24
+    21300050: HAM_CHEESE_ROLL_PUZZLE_25
+    21300052: HAM_CHEESE_ROLL_PUZZLE_26
+    21300054: HAM_CHEESE_ROLL_PUZZLE_27
+    21300056: HAM_CHEESE_ROLL_PUZZLE_28
+    21300058: HAM_CHEESE_ROLL_PUZZLE_29
+    21300060: HAM_CHEESE_ROLL_PUZZLE_30
+    21300062: HAM_CHEESE_ROLL_PUZZLE_31
+    21300064: HAM_CHEESE_ROLL_PUZZLE_32
+    21300066: HAM_CHEESE_ROLL_PUZZLE_33
+    21300068: HAM_CHEESE_ROLL_PUZZLE_34
+    21300070: HAM_CHEESE_ROLL_PUZZLE_35
+    21300072: HAM_CHEESE_ROLL_PUZZLE_36
+    21300074: HAM_CHEESE_ROLL_PUZZLE_37
+    21300076: HAM_CHEESE_ROLL_PUZZLE_38
+    21300078: HAM_CHEESE_ROLL_PUZZLE_39
+    21300080: HAM_CHEESE_ROLL_PUZZLE_40
+    21300082: HAM_CHEESE_ROLL_PUZZLE_41
+    21300084: HAM_CHEESE_ROLL_PUZZLE_42
+    21300086: HAM_CHEESE_ROLL_PUZZLE_43
+    21300088: HAM_CHEESE_ROLL_PUZZLE_44
+    21300090: HAM_CHEESE_ROLL_PUZZLE_45
+    21300092: HAM_CHEESE_ROLL_PUZZLE_46
+    21300094: HAM_CHEESE_ROLL_PUZZLE_47
+    21300096: HAM_CHEESE_ROLL_PUZZLE_48
+    21300098: HAM_CHEESE_ROLL_PUZZLE_49
+    21300100: HAM_CHEESE_ROLL_PUZZLE_50
+    21300102: HAM_CHEESE_ROLL_PUZZLE_51
+    21300104: HAM_CHEESE_ROLL_PUZZLE_52
+    21300106: HAM_CHEESE_ROLL_PUZZLE_53
+    21300108: HAM_CHEESE_ROLL_PUZZLE_54
+    21300110: HAM_CHEESE_ROLL_PUZZLE_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HAM_CHEESE_ROLL_PUZZLE_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 769
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 770
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 761
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 762
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 754
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 754
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_6
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 678
+        width: 212
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 637
+        width: 177
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 649
+        width: 148
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 666
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_10
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 688
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_11
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 665
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 592
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 592
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 592
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_15
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 518
+        width: 200
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_16
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 519
+        width: 200
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 493
+        width: 205
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 509
+        width: 125
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 438
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 438
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 307
+        width: 81
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 439
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 348
+        width: 144
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_24
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 441
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_25
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 441
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_26
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 423
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_27
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 423
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_28
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 427
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_29
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 427
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_30
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 428
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_31
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 428
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_32
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 318
+        width: 230
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_33
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 302
+        width: 272
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_34
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 301
+        width: 271
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_35
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 301
+        width: 272
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 146
+        width: 243
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_37
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 263
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 263
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_39
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 212
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_40
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 212
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_41
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 204
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_42
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 203
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 92
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 92
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_45
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 79
+        width: 271
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_46
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 72
+        width: 271
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_47
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 77
+        width: 272
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_48
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 67
+        width: 272
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_49
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 104
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 16
+        width: 188
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_51
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 39
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_52
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 44
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_53
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 9
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HAM_CHEESE_ROLL_PUZZLE_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 498
+        width: 251
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
