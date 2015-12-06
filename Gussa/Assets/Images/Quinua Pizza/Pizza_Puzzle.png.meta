@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: e685f784131af874982f88300da7bbdc
+timeCreated: 1449363649
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pizza_Puzzle_0
+    21300002: Pizza_Puzzle_1
+    21300004: Pizza_Puzzle_2
+    21300006: Pizza_Puzzle_3
+    21300008: Pizza_Puzzle_4
+    21300010: Pizza_Puzzle_5
+    21300012: Pizza_Puzzle_6
+    21300014: Pizza_Puzzle_7
+    21300016: Pizza_Puzzle_8
+    21300018: Pizza_Puzzle_9
+    21300020: Pizza_Puzzle_10
+    21300022: Pizza_Puzzle_11
+    21300024: 1
+    21300026: Pizza_Puzzle_13
+    21300028: 3
+    21300030: 10
+    21300032: 11
+    21300034: 15
+    21300036: 2
+    21300038: 16
+    21300040: 17
+    21300042: 4
+    21300044: Pizza_Puzzle_22
+    21300046: Pizza_Puzzle_23
+    21300048: Pizza_Puzzle_24
+    21300050: 6
+    21300052: Pizza_Puzzle_26
+    21300054: Pizza_Puzzle_27
+    21300056: Pizza_Puzzle_28
+    21300058: Pizza_Puzzle_29
+    21300060: 5
+    21300062: Pizza_Puzzle_31
+    21300064: Pizza_Puzzle_32
+    21300066: 18
+    21300068: Pizza_Puzzle_34
+    21300070: Pizza_Puzzle_35
+    21300072: Pizza_Puzzle_36
+    21300074: Pizza_Puzzle_37
+    21300076: 12
+    21300078: 13
+    21300080: 19
+    21300082: 20
+    21300084: Pizza_Puzzle_42
+    21300086: 8
+    21300088: 7
+    21300090: Pizza_Puzzle_45
+    21300092: Pizza_Puzzle_46
+    21300094: Pizza_Puzzle_47
+    21300096: 9
+    21300098: 14
+    21300100: Pizza_Puzzle_50
+    21300102: Pizza_Puzzle_51
+    21300104: Pizza_Puzzle_52
+    21300106: 21
+    21300108: 22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pizza_Puzzle_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 697
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_1
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 709
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_2
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 709
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_3
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 703
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_4
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 703
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 683
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_6
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 672
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_7
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 672
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_8
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 669
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_9
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 669
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_10
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 663
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_11
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 663
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 523
+        width: 152
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 642
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 501
+        width: 102
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 10
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 442
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 11
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 504
+        width: 167
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 15
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 499
+        width: 255
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 508
+        width: 182
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 16
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 512
+        width: 254
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 17
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 510
+        width: 234
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 70
+        height: 244
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 472
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 453
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_24
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 416
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 336
+        width: 257
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_26
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 416
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_27
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 416
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_28
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 422
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_29
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 422
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 311
+        width: 253
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_31
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 400
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_32
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 400
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 18
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 111
+        width: 249
+        height: 293
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_34
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 388
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_35
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 388
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_36
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 388
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 282
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 12
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 61
+        width: 284
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 13
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 292
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 19
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 234
+        width: 191
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 20
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 230
+        width: 216
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 226
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 175
+        width: 182
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 385
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 186
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_46
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 191
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_47
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 191
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 54
+        width: 209
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 52
+        width: 206
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_50
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 142
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_51
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 142
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pizza_Puzzle_52
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 116
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 21
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 0
+        width: 374
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 22
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 4
+        width: 166
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
